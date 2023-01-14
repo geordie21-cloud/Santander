@@ -663,7 +663,7 @@
 					IOKit,
 				);
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mineek.santander;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mineek.santandermacdirtycow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Santander/Other/External/**";
@@ -703,7 +703,7 @@
 					IOKit,
 				);
 				OTHER_SWIFT_FLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mineek.santander;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mineek.santandermacdirtycow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INCLUDE_PATHS = "$(SRCROOT)/Santander/Other/External/**";
